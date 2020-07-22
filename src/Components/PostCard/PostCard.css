@@ -1,0 +1,21 @@
+.CardImg {
+    width: 90%;
+    background-color: #054163
+}
+.imgHeight {
+    max-height: 300px
+}
+@media (min-width: 501px) {
+    .rating {
+        position: absolute;
+        background-color: #F4B41A;
+        padding: 2%;
+        width: 20%;
+        bottom: 15%;
+        left: -5px;
+        font-size: 20px;
+        font-weight: bold;
+        color: black;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+    }
+}
